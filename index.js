@@ -4,6 +4,7 @@ import routes from './src/routes/products.routes.js';
 import authRouter from './src/routes/auth.routes.js';
 import {authentication} from './src/middlewares/authentication.js';
 import bodyParser from 'body-parser';
+import 'dotenv/config';
 
 const app = express();
 app.set("PORT",3000);
