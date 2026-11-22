@@ -33,10 +33,10 @@ app.use((req, res, next) => {
 
 
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT,()=>{
-    console.log(`Servidor con express corriendo en http://localhost:${PORT}`);
+    console.log(`Servidor con express corriendo en el puerto ${PORT}`);
 });
 
 
