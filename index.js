@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 app.use('/auth',authRouter);
 
 app.get ('/',(req,res) =>{
-    res.json({Mensaje: "Raiz de la api, elija un endpoint"})
+    res.json({Data: "Esta una api de productos acceda a los recursos una vez hecho el login",Mensaje: "Raiz de la api, elija un endpoint"})
 });
 
 app.use('/auth',authRouter);
