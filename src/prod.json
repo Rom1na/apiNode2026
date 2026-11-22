@@ -1,0 +1,283 @@
+{
+"productos": [
+{
+"marca": "SALADIX",
+"codigo": "7790580697303",
+"precioMax": 2900,
+"precioMin": 1889,
+"nombre": "Galletitas Pizza Saladix 100 Gr",
+"presentacion": "100.0 gr",
+"categoria": "Snack"
+},
+{
+"marca": "SALADIX",
+"codigo": "7790580716707",
+"precioMax": 2900,
+"precioMin": 1889,
+"nombre": "Galletitas Jamon Saladix 100 Gr",
+"presentacion": "100.0 gr",
+"categoria": "Snack"
+},
+{
+"marca": "KINDER",
+"codigo": "0000080052760",
+"precioMax": 5200,
+"precioMin": 3149,
+"nombre": "Tableta de Chocolate Kinder Bueno 43 Gr",
+"presentacion": "43.0 gr",
+"categoria": "Golosinas"
+},
+{
+"id" : 1,    
+"marca": "KINDER",
+"codigo": "0000077949677",
+"precioMax": 5500,
+"precioMin": 3529,
+"nombre": "Tableta de Chocolate con Leche Kinder 50 Gr",
+"presentacion": "50.0 gr",
+"categoria": "Golosinas"
+},
+{
+"id" : 2,    
+"marca": "MOGUL",
+"codigo": "7790580199913",
+"precioMax": 1200,
+"precioMin": 979,
+"nombre": "Gomitas Ositos Arcor Mogul 30 Gr",
+"presentacion": "30.0 gr",
+"categoria": "Golosinas"
+},
+{
+"id" : 3,    
+"marca": "LA VIRGINIA",
+"codigo": "7790150006320",
+"precioMax": 7700,
+"precioMin": 7216,
+"nombre": "Cafe Molido Clasico Bolsa La Virginia 250 Gr",
+"presentacion": "250.0 gr",
+"categoria": "infusiones"
+},
+{
+"id" : 4,    
+"marca": "CELUSAL",
+"codigo": "7790072002080",
+"precioMax": 2100,
+"precioMin": 1894,
+"nombre": "Sal Fina en Estuche Celusal 500 Gr",
+"presentacion": "500.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 5,    
+"marca": "LA VIRGINIA",
+"codigo": "7790150079904",
+"precioMax": 6800,
+"precioMin": 5859,
+"nombre": "Cafe Clasico en Saquitos La Virginia 20 Un",
+"presentacion": "20.0 un",
+"categoria": "infusiones"
+},
+{
+"id" : 6,
+"marca": "LUCCHETTI",
+"codigo": "7790070336385",
+"precioMax": 1900,
+"precioMin": 1795,
+"nombre": "Fideos Spaghetti N7 Lucchetti 500 Gr",
+"presentacion": "500.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 7,    
+"marca": "ARLISTÁN",
+"codigo": "7790070933638",
+"precioMax": 11350,
+"precioMin": 10889,
+"nombre": "Cafe Instantaneo Suave Extra Aroma Arlistan 170 Gr",
+"presentacion": "170.0 gr",
+"categoria": "infusiones"
+},
+{
+"id" : 6,    
+"marca": "EXQUISITA",
+"codigo": "7790070410801",
+"precioMax": 3850,
+"precioMin": 3659,
+"nombre": "Premezcla para Cookies de Chocolate con Chips Exquisita 12 Un 300 Gr",
+"presentacion": "300.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 1,    
+"marca": "MINERVA",
+"codigo": "7790070507341",
+"precioMax": 3739,
+"precioMin": 3599,
+"nombre": "Jugo de Limon Minerva 500 Ml",
+"presentacion": "500.0 ml",
+"categoria": "Almacen"
+},
+{
+"id" : 6,    
+"marca": "CELUSAL",
+"codigo": "7790072001014",
+"precioMax": 1790,
+"precioMin": 1650,
+"nombre": "Sal Fina en Paquete Celusal 500 Gr",
+"presentacion": "500.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 6,    
+"marca": "MENOYO",
+"codigo": "7790130000058",
+"precioMax": 1965,
+"precioMin": 1749,
+"nombre": "Vinagre de Alcohol Menoyo 1 Lt",
+"presentacion": "1.0 lt",
+"categoria": "Almacen"
+},
+{
+"id" : 6,    
+"marca": "RIERA",
+"codigo": "7790071090125",
+"precioMax": 2150,
+"precioMin": 1969,
+"nombre": "Tostadas Dulces Libres Riera 200 Gr",
+"presentacion": "200.0 gr",
+"categoria": "Panificados"
+},
+{
+"id" : 6,    
+"marca": "LA SALTEÑA",
+"codigo": "7790070621870",
+"precioMax": 4750,
+"precioMin": 4430,
+"nombre": "Ravioles Jamon y Mozzarella La Salteña 450 Gr",
+"presentacion": "450.0 gr",
+"categoria": "Pastas"
+},
+{
+"id" : 6,    
+"marca": "LA SALTEÑA",
+"codigo": "7790070621863",
+"precioMax": 4750,
+"precioMin": 4430,
+"nombre": "Ravioles Ricota Mozzarella Danbo Parmesano La Salteña 450 Gr",
+"presentacion": "450.0 gr",
+"categoria": "Pastas"
+},
+{
+"id" : 6,    
+"marca": "RIERA",
+"codigo": "7790071090231",
+"precioMax": 2150,
+"precioMin": 1969,
+"nombre": "Tostadas Clasicas Libres Riera 200 Gr",
+"presentacion": "200.0 gr",
+"categoria": "Panificados"
+},
+{
+"id" : 6,    
+"marca": "DON VICENTE ",
+"codigo": "7790070336545",
+"precioMax": 4029,
+"precioMin": 3909,
+"nombre": "Fideos Fetuccini Don Vicente 500 Gr",
+"presentacion": "500.0 gr",
+"categoria": "Pastas"
+},
+{
+"id" : 6,    
+"marca": "LUCHETTI",
+"codigo": "7790070336118",
+"precioMax": 1900,
+"precioMin": 1839,
+"nombre": "Fideos Tallarin N5 Lucchetti 500 Gr",
+"presentacion": "500.0 gr",
+"categoria": "Pastas"
+},
+{
+"id" : 6,    
+"marca": "MATARAZZO",
+"codigo": "7790070336316",
+"precioMax": 2200,
+"precioMin": 2179,
+"nombre": "Fideos Tallarines N5 Matarazzo 500 Gr",
+"presentacion": "500.0 gr",
+"categoria": "Pastas"
+},
+{
+"id" : 6,    
+"marca": "ÁGUILA",
+"codigo": "7790040133587",
+"precioMax": 2600,
+"precioMin": 2356.99,
+"nombre": "Alfajor Minitorta Clasica Aguila 69 Gr",
+"presentacion": "69.0 gr",
+"categoria": "Golosinas"
+},
+{
+"id" : 6,    
+"marca": "MANÁ",
+"codigo": "7790040137844",
+"precioMax": 3900,
+"precioMin": 3579,
+"nombre": "Galletitas Sabor Vainilla Mana 3 Un 131 Gr",
+"presentacion": "131.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 6,    
+"marca": "RINA MATARAZZO",
+"codigo": "7790070336651",
+"precioMax": 3950,
+"precioMin": 3700,
+"nombre": "Spaghetti Rina Matarazzo 500 Gr",
+"presentacion": "500.0 gr",
+"categoria": "Pastas"
+},
+{
+"id" : 6,    
+"marca": "OREO",
+"codigo": "7622201735258",
+"precioMax": 7140,
+"precioMin": 6926,
+"nombre": "Galletitas Dulces Rellenas con Crema Oreo 354 Gr",
+"presentacion": "354.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 6,    
+"marca": "EXQUISITA",
+"codigo": "7790070417916",
+"precioMax": 1650,
+"precioMin": 1309,
+"nombre": "Postre para Preparar Dulce de Leche Exquisita 80 Gr",
+"presentacion": "80.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 6,    
+"marca": "GALLO",
+"codigo": "7790070432254",
+"precioMax": 3500,
+"precioMin": 3269,
+"nombre": "Arroz Preparado sabor Verdeo Gallo 240 Gr",
+"presentacion": "240.0 gr",
+"categoria": "Almacen"
+},
+{
+"id" : 6,     
+"marca": "TIC TAC",
+"codigo": "0000078600027",
+"precioMax": 1150,
+"precioMin": 1039,
+"nombre": "Pastillas Tic Tac Naranja Caja 16 Gr",
+"presentacion": "16.0 gr",
+"categoria": "Golosinas"
+}
+
+]
+
+}

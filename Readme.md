@@ -1,0 +1,58 @@
+# 🛍️ API de Productos - Express + Node.js
+
+Esta es una API desarrollada con **Express** para gestionar productos y autenticación de usuarios.
+
+---
+
+## 🚀 Características
+
+- Autenticación de usuarios mediante rutas protegidas
+- Gestión de productos a través de endpoints REST
+- Middleware personalizado de autenticación
+- Configuración de **CORS**
+- Manejo de errores 404
+- Respuesta base en la raíz de la API
+
+---
+
+## 📦 Tecnologías
+
+- Node.js
+- Express
+- CORS
+- JavaScript ESModules
+- JWT
+
+---
+
+
+## Estructura de documentos en firebase
+ 
+- doc : id,codigo,marca,nombre,precioMax,precioMin,categoria,presentacion.
+- dentro de la coleccion Productos.
+
+## Estructura de la respuesta json
+
+- mensaje 
+- payload
+
+## Keys de las variables de entorno usadas en el proyecto: 
+- APIKEY
+- AUTHDOMAIN
+- PROJECTID
+- STORAGEBUCKET
+- MESSAGINGSENDERID
+- APPID
+- JWT_SECRET_KEY
+- MAIL
+- PASS
+
+## Endpoints:
+
+- (GET) /api/products  -> todos los productos  ()
+- (GET) /api/products?categoria=  ->productos con la categoria solicitada  - query params
+- (GET) /api/products/:id   -> productos por id   - path params
+- (GET) /api/descripcion/:descripcion  -> productos por descripcion
+- (POST) /api/create
+- (DEL) /api/delete/:id - path params
+- (POST) /auth/login
