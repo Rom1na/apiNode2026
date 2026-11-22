@@ -49,10 +49,12 @@ Esta es una API desarrollada con **Express** para gestionar productos y autentic
 
 ## Endpoints:
 
-- (GET) /api/products  -> todos los productos  ()
-- (GET) /api/products?categoria=  ->productos con la categoria solicitada  - query params
-- (GET) /api/products/:id   -> productos por id   - path params
-- (GET) /api/descripcion/:descripcion  -> productos por descripcion
-- (POST) /api/create
-- (DEL) /api/delete/:id - path params
-- (POST) /auth/login
+- (GET) https://apinode2026.vercel.app/api/products  -> todos los productos  ()
+- (GET) https://apinode2026.vercel.app/api/products?categoria=  ->productos con la categoria solicitada  - query params
+- (GET) https://apinode2026.vercel.app/api/products/:id   -> productos por id   - path params
+- (GET) https://apinode2026.vercel.app/api/descripcion/:descripcion  -> productos por descripcion
+- (POST) https://apinode2026.vercel.app/api/create
+- (DEL) https://apinode2026.vercel.app/api/delete/:id - path params
+- (POST) https://apinode2026.vercel.app/auth/login
+
+Todos los endpoints estan protegidos con auth  excepto la raiz (https://apinode2026.vercel.app/) y  auth/login
